@@ -1,6 +1,6 @@
 # Alura Play
 
-Olá, Bem vindo ao projeto Alura Play. Este projeto foi criado no curso de JS da Alura.
+Este projeto foi criado em um dos cursos de JS da Alura.
 
 ## URL no Vercel: https://alura-play-eta-three.vercel.app/
 
